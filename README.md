@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @michelangelodorado
-- 👀 I’m interested in Technologies
-- 🌱 I’m currently learning skills needed for the future
-- 📫 How to reach me? IG: @michelangelodorado
+@michelangelodorado
 
 ₿itcoin, Crypto & Blockchain believer
 
