@@ -4,7 +4,6 @@ BIO
 - 🏢 I'm currently working at F5 Inc.
 - ⚙️ I use daily: Linux, Wireshark, etc.
 - 🌍 I'm mostly active in outdoor sports
-- 🌱 Trying to Automate things
 - 💰 ₿itcoin, Crypto & Blockchain believer
 - 📫 Reach me on Instagram: @michelangelodorado
 - ⚡️ Fun fact: ???
